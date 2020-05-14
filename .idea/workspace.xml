@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b552ed3-f696-4361-bae9-16a0db05eb13" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b4kQ0mYQOnScZGtmZKQ248IUHE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JPA_learning/pom.xml" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.example.jdbc.dao.mysql" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.MysqlEnrollmentDAOTest.getAllfilterBy">
+    <configuration name="MysqlDAOManagerTest.getStudentDAO" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="makigas_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jdbc.dao.mysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.jdbc.dao.mysql" />
+      <option name="MAIN_CLASS_NAME" value="org.example.jdbc.dao.mysql.MysqlDAOManagerTest" />
+      <option name="METHOD_NAME" value="getStudentDAO" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MysqlEnrollmentDAOTest.get" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="makigas_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jdbc.dao.mysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.jdbc.dao.mysql" />
+      <option name="MAIN_CLASS_NAME" value="org.example.jdbc.dao.mysql.MysqlEnrollmentDAOTest" />
+      <option name="METHOD_NAME" value="get" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MysqlEnrollmentDAOTest.getAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="makigas_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jdbc.dao.mysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.jdbc.dao.mysql" />
+      <option name="MAIN_CLASS_NAME" value="org.example.jdbc.dao.mysql.MysqlEnrollmentDAOTest" />
+      <option name="METHOD_NAME" value="getAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MysqlEnrollmentDAOTest.getAllfilterBy" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="jdbc_DAO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jdbc.dao.mysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.jdbc.dao.mysql" />
+      <option name="MAIN_CLASS_NAME" value="org.example.jdbc.dao.mysql.MysqlEnrollmentDAOTest" />
+      <option name="METHOD_NAME" value="getAllfilterBy" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MysqlTeacherDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="makigas_jdbc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.jdbc.dao.mysql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example.jdbc.dao.mysql" />
+      <option name="MAIN_CLASS_NAME" value="org.example.jdbc.dao.mysql.MysqlTeacherDAOTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MysqlEnrollmentDAOTest.getAllfilterBy" />
+        <item itemvalue="JUnit.MysqlEnrollmentDAOTest.getAll" />
+        <item itemvalue="JUnit.MysqlEnrollmentDAOTest.get" />
+        <item itemvalue="JUnit.MysqlDAOManagerTest.getStudentDAO" />
+        <item itemvalue="JUnit.MysqlTeacherDAOTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b552ed3-f696-4361-bae9-16a0db05eb13" name="Default Changelist" comment="" />
+      <created>1587898733488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587898733488</updated>
+      <workItem from="1588329974264" duration="148000" />
+      <workItem from="1588783377838" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="542" y="176" key="#MysqlEnrollmentDAOTest.getAllfilterBy" timestamp="1588329861688">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="542" y="176" key="#MysqlEnrollmentDAOTest.getAllfilterBy/65.24.1855.1056@65.24.1855.1056" timestamp="1588329861688" />
+    <state x="804" y="258" width="909" height="574" key="#com.intellij.ide.util.MemberChooser" timestamp="1588242033923">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="804" y="258" width="909" height="574" key="#com.intellij.ide.util.MemberChooser/65.24.1855.1056@65.24.1855.1056" timestamp="1588242033923" />
+    <state x="487" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588179489020">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="487" y="24" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1588179489020" />
+    <state x="1046" y="388" key="#xdebugger.evaluate" timestamp="1588258158264">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="1046" y="388" key="#xdebugger.evaluate/65.24.1855.1056@65.24.1855.1056" timestamp="1588258158264" />
+    <state x="408" y="266" width="1657" height="885" key="DiffContextDialog" timestamp="1587912548462">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="408" y="266" width="1657" height="885" key="DiffContextDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1587912548462" />
+    <state x="779" y="297" key="FileChooserDialogImpl" timestamp="1588783452855">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="779" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1588783452855" />
+    <state width="1809" height="223" key="GridCell.Tab.0.bottom" timestamp="1588329900575">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="223" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1588329900575" />
+    <state width="1809" height="223" key="GridCell.Tab.0.center" timestamp="1588329900574">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="223" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1588329900574" />
+    <state width="1809" height="223" key="GridCell.Tab.0.left" timestamp="1588329900574">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="223" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1588329900574" />
+    <state width="1809" height="223" key="GridCell.Tab.0.right" timestamp="1588329900574">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="223" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1588329900574" />
+    <state width="1809" height="365" key="GridCell.Tab.1.bottom" timestamp="1588329656561">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1588329656561" />
+    <state width="1809" height="365" key="GridCell.Tab.1.center" timestamp="1588329656560">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.center/65.24.1855.1056@65.24.1855.1056" timestamp="1588329656560" />
+    <state width="1809" height="365" key="GridCell.Tab.1.left" timestamp="1588329656560">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.left/65.24.1855.1056@65.24.1855.1056" timestamp="1588329656560" />
+    <state width="1809" height="365" key="GridCell.Tab.1.right" timestamp="1588329656561">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1809" height="365" key="GridCell.Tab.1.right/65.24.1855.1056@65.24.1855.1056" timestamp="1588329656561" />
+    <state x="124" y="201" key="SettingsEditor" timestamp="1588783434582">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="124" y="201" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1588783434582" />
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1588783378827">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="653" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1588783378827" />
+    <state x="735" y="244" width="673" height="589" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1588172152941">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="735" y="244" width="673" height="589" key="com.intellij.testIntegration.createTest.CreateTestDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1588172152941" />
+    <state x="637" y="269" width="710" height="538" key="find.popup" timestamp="1588760117565">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="637" y="269" width="710" height="538" key="find.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1588760117565" />
+    <state x="655" y="246" width="672" height="677" key="run.anything.popup" timestamp="1587999660020">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="655" y="246" width="672" height="677" key="run.anything.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1587999660020" />
+    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup" timestamp="1588247263405">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="655" y="236" width="672" height="678" key="search.everywhere.popup/65.24.1855.1056@65.24.1855.1056" timestamp="1588247263405" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/jdbc/App.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+/home/camilo/IdeaProjects/jdbc/src/test/java/org/example/jdbc/dao/mysql/MysqlSubjectDAOTest.java
+/home/camilo/IdeaProjects/jdbc/src/test/java/org/example/jdbc/dao/mysql/MysqlEnrollmentDAOTest.java
+/home/camilo/IdeaProjects/jdbc/src/test/java/org/example/jdbc/dao/mysql/MysqlStudentDAOTest.java
+/home/camilo/IdeaProjects/jdbc/src/test/java/org/example/jdbc/dao/mysql/MysqlTeacherDAOTest.java
+/home/camilo/IdeaProjects/jdbc/src/test/java/org/example/jdbc/dao/mysql/MysqlDAOManagerTest.java
+/home/camilo/IdeaProjects/jdbc/src/test/java/org/example/jdbc/AppTest.java
