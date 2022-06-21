@@ -21,7 +21,7 @@
     <maven.compiler.source>11</maven.compiler.source> <!--  quick-start archetype default 1.7-->
     <maven.compiler.target>11</maven.compiler.target>
     <version.junit>4.13</version.junit>  <!-- Jan 2020 .4.11 is maven default quick-start arquetype -->
-    <version.mysql-connector-java>8.0.19</version.mysql-connector-java>  <!-- dic 4, 2019 -->
+    <version.mysql-connector-java>8.0.28</version.mysql-connector-java>  <!-- dic 4, 2019 -->
     <version.slf4j>1.7.30</version.slf4j>
 
   </properties>
